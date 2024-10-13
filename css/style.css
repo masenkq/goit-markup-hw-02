@@ -99,7 +99,9 @@ a {
 }
 
 /*section2*/
-.stpudite {}
+.stpudite {
+    background-color: #ffffff;
+}
 
 .stpudite-list {}
 
@@ -156,7 +158,9 @@ a {
 }
 
 /*4secti9on*/
-.portfolio {}
+.portfolio {
+    background-color: #ffffff;
+}
 
 .portfolio-title {
 
