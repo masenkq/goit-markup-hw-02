@@ -84,19 +84,20 @@ a {
 .solutions-button {
 
     background: #4d5ae5;
-    cursor: pointer;
-}
-
-.solutions-btntext {
+    font-weight: 500;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+.solutions-btntext {
     color: #fff;
 }
 
-.solutions-btntext:hover,
-.solutions-btntext:focus {
+.solutions-button:hover,
+.solutions-button:focus {
     background-color: #404bbf;
     ;
 }
