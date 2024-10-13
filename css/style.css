@@ -68,3 +68,35 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+.solutions {
+    background-color: #2e2f42;
+}
+
+.solutions-title {
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.solutions-button {
+
+    background: #4d5ae5;
+    cursor: pointer;
+}
+
+.solutions-btntext {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
+.solutions-btntext:hover,
+.solutions-btntext:focus {
+    background-color: #404bbf;
+    ;
+}
