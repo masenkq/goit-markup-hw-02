@@ -14,6 +14,7 @@ a {
     text-decoration: none;
 }
 
+/*header*/
 .page-header {}
 
 .header-nav {}
@@ -27,7 +28,6 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-
 
 .studio-color {
     color: #2e2f42;
@@ -69,13 +69,14 @@ a {
     color: #434455;
 }
 
+/*section1*/
 .solutions {
     background-color: #2e2f42;
 }
 
 .solutions-title {
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -93,11 +94,33 @@ a {
 }
 
 .solutions-btntext {
-    color: #fff;
+    color: #ffffff;
 }
 
 .solutions-button:hover,
 .solutions-button:focus {
     background-color: #404bbf;
-    ;
 }
+
+/*section2*/
+.stpudite {}
+
+.stpudite-list {}
+
+.stpudite-items {}
+
+.stpudite-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.stpudite-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
+
+/*section3*/
