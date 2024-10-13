@@ -31,7 +31,6 @@ a {
 
 .studio-color {
     color: #2e2f42;
-
 }
 
 .nav-list {}
@@ -121,7 +120,7 @@ a {
 }
 
 /*section3*/
-.Team {
+.team {
     background-color: #F4F4FD
 }
 
@@ -132,11 +131,11 @@ a {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #ffffff;
+    /*mozna spatne*/
 }
 
-.team-list {
-    background-color: #ffffff;
-}
+.team-list {}
 
 .team-items {}
 
@@ -154,4 +153,53 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+/*4secti9on*/
+.portfolio {}
+
+.portfolio-title {
+
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.portfolio-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/*footer*/
+.footer {
+    background-color: #2e2f42;
+}
+
+.footer-link {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}
+
+.footer-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
